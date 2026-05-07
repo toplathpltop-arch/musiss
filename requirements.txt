@@ -1,0 +1,8 @@
+python-telegram-bot[job-queue]==20.7
+yt-dlp
+shazamio
+aiohttp
+aiosqlite
+python-dotenv
+ffmpeg-python
+Pillow
